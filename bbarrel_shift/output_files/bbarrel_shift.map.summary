@@ -1,0 +1,9 @@
+Analysis & Synthesis Status : Successful - Sun Jun 11 22:03:45 2023
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : bbarrel_shift
+Top-level Entity Name : DUT
+Family : MAX V
+Total logic elements : 63
+Total pins : 20
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )
